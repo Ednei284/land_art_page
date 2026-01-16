@@ -1,2 +1,2 @@
 # land_art_page
-se propoena criar um portfólio artistico
+se propõe a criar um portfólio artistico
